@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yersultan Doszhan</h1>
-<h3 align="center">A software developer from Kazakhstan with strong background in Data Structures & Algorithms</h3>
+<h3 align="center">A Software Engineer from Kazakhstan</h3>
+<br>
 
-- 🔭 I’m currently studying Computer Science at **KAIST**
+<img align="right" alt="coding" height="270" width="400" src="https://github.com/edoszhan/edoszhan/assets/99290354/3cbb680c-5be2-4288-ac9d-c5c7ba85a13c">
 
-- 🌱 I’m currently learning **Rust and computer networks**
+- 🔭 A Junior student studying Computer Science at **KAIST, South Korea**
 
-- 💬 Ask me about **React and mobile app development**
+- 📚 I’m currently learning **Rust and computer networks**
 
-- 📫 How to reach me **edoszhan@kaist.ac.kr**
+- 💬 Expertise in **React and mobile app development**
+
+- 📫 Contact: **edoszhan@kaist.ac.kr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edoszhan&show_icons=true&locale=en" alt="edoszhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edoszhan&" alt="edoszhan" /></p>
