@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A Junior student studying Computer Science at KAIST, South Korea<br>💬 Expertise in React and mobile app development<br>📚  I’m currently working on personal projects in Web Development, mainly backend.<br>🌱 I’m currently learning Rust and fundamental concepts in Computer Networks.<br>📫 Contact: edoszhan@kaist.ac.kr
+🔭 A Senior student studying Computer Science at KAIST, South Korea<br>💬 Expertise in React and mobile app development<br>📚  I’m currently working on personal projects in Web Development, mainly backend.<br>🌱 I’m currently learning Rust and fundamental concepts in Computer Networks.<br>📫 Contact: edoszhan@kaist.ac.kr
 
 
 ## 🌐 Socials:
