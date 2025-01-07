@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A Senior student studying Computer Science at KAIST, South Korea<br>💬 Expertise in React and mobile app development<br>📚  I’m currently working on personal projects in Web Development, mainly backend.<br>🌱 I’m open for internships for Winter 2025 and Summer 2025 <br>📫 Contact: edoszhan@kaist.ac.kr
+🔭 A Senior student studying Computer Science at KAIST, South Korea<br>💬 Expertise in HCI, web and mobile app development<br>📚  I’m currently working on personal projects in Web Development, mainly backend.<br>🌱 I’m open to full-time software engineering positions starting in Summer 2025 <br>📫 Contact: edoszhan@kaist.ac.kr
 
 
 ## 🌐 Socials:
