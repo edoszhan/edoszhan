@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A Senior student studying Computer Science at KAIST, South Korea<br>💬 Expertise in HCI, web and backend development<br>🌱 I’m open to full-time software engineering positions starting Summer 2025 <br>📫 Contact: yersultanofficial@gmail.com OR https://linkedin.com/in/edoszhan
+🔭 A Senior student studying Computer Science at KAIST, South Korea<br>💬 Expertise in HCI, web and backend development<br>🌱 I’m open to full-time software engineering positions starting January 2026 <br>📫 Contact: yersultanofficial@gmail.com OR https://linkedin.com/in/edoszhan
 
 # 💻 Tech Stack:
 
